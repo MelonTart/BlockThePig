@@ -1,4 +1,4 @@
-# BlockThePig
+Block The Pig
 This project attepmts to beat the game of Block The Pig.
 This was accomplished using two different methods,
 recursive solving and neural networks. The recursive

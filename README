@@ -1,0 +1,9 @@
+# BlockThePig
+This project attepmts to beat the game of Block The Pig.
+This was accomplished using two different methods,
+recursive solving and neural networks. The recursive
+solution attempts to simualte the game as closely as possible
+in which moves are recusively tested until one beats that round.
+The AI neural network aproach uses a neural network that is
+trained by playing the game without iterfenece using
+reinforcement training techniques
